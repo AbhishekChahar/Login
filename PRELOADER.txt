@@ -1,0 +1,17 @@
+#ADDING A PRELOADER
+
+1- <body onload="func1()" >
+2- <div id="loading"></div> 
+3-<script>
+    var preloader=document.getElementById('loading');
+    function func1(){
+        preloader.style.display='none';
+    }
+  </script>
+4-#loading{
+    position: fixed;
+    height: 100vh;
+    width: 100vh;
+    background: #fff url(giphy.gif) center no-repeat;    
+    z-index: 99999;
+   }
