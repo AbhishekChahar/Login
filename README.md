@@ -9,3 +9,8 @@ it looks like:
 
 
 ![Screenshot (298)](https://user-images.githubusercontent.com/37897749/54881717-b3bc1280-4e78-11e9-8f2c-958e628886a7.png)
+
+
+##Used this GIF as a preloader to our page:
+
+![giphy](https://user-images.githubusercontent.com/37897749/55344908-48072480-54cc-11e9-996d-4e2e03f728f7.gif)
